@@ -9,15 +9,15 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **AI + RPA**
+- 🌱 I’m currently learning **Information Technology**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
+- 🧑‍🎓 I’m an Undergraduate at **UEF**
 
-- 💬 Ask me about **RPA**
+- 💬 Ask me about **Python**
 
-- 📫 How to reach me **kaveen.dinethma@gmail.com**
+- 📫 How to reach me **anura.shantha@gmail.com**
   
-- ⚡ Fun fact **Call me as KD**
+- ⚡ Fun fact **Call me as AS**
 
 </td>
 <td width="50%" align="center">
