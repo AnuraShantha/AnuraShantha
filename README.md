@@ -57,8 +57,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AnuraShantha&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2)
+<p align="center">
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aleksey-Voko&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 
